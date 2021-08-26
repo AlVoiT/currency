@@ -1,2 +1,2 @@
-# finance.i.ua
-Parse website and write in a spreadsheet
+# currency_voit
+Parse website(https://finance.i.ua/) and write current exchange rates in a spreadsheet
